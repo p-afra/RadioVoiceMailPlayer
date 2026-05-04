@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RadioVoiceMailPlayer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RadioVoiceMailPlayer_jar</output-path>
+    <root id="archive" name="RadioVoiceMailPlayer_jar.jar">
+      <element id="archive" name="RadioVoiceMailPlayer.jar">
+        <element id="module-output" name="RadioVoiceMailPlayer" />
+      </element>
+      <element id="library" level="project" name="openjfx.javafx.media" />
+      <element id="library" level="project" name="openjfx.javafx.fxml" />
+      <element id="library" level="project" name="json" />
+      <element id="library" level="project" name="openjfx.javafx.controls" />
+    </root>
+  </artifact>
+</component>

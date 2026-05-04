@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: javafx-media-21.jar javafx-media-21-mac-aarch64.jar javafx-g
+ raphics-21.jar javafx-graphics-21-mac-aarch64.jar javafx-base-21.jar ja
+ vafx-base-21-mac-aarch64.jar javafx-fxml-21.jar javafx-fxml-21-mac-aarc
+ h64.jar javafx-controls-21.jar javafx-controls-21-mac-aarch64.jar javaf
+ x-graphics-21.jar javafx-graphics-21-mac-aarch64.jar javafx-base-21.jar
+  javafx-base-21-mac-aarch64.jar json-20240303.jar javafx-controls-21.ja
+ r javafx-controls-21-mac-aarch64.jar javafx-graphics-21.jar javafx-grap
+ hics-21-mac-aarch64.jar javafx-base-21.jar javafx-base-21-mac-aarch64.j
+ ar
+
